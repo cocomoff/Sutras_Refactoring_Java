@@ -8,5 +8,15 @@ public class Main {
 	} else {
 	    System.out.println("Not found...");
 	}
+	if (FindInt.find_rev_break(data, 5)) {
+	    System.out.println("Found!");
+	} else {
+	    System.out.println("Not found...");
+	}
+	if (FindInt.find_rev_return(data, 5)) {
+	    System.out.println("Found!");
+	} else {
+	    System.out.println("Not found...");
+	}
     }
 }
