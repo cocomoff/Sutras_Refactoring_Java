@@ -7,3 +7,16 @@
 # Chapter 1
 
 - Robot example: 定数マジックナンバーの適切な置き換え
+
+
+# Chapter 2
+
+- 制御フラグを余計な形で使わない
+- 紛らわしい一時変数の名前を使わない
+- 例題
+  - FindInt
+  - SimpleDatabase
+
+# Chapter 3
+
+- アサーションを適宜利用する
