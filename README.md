@@ -20,3 +20,7 @@
 # Chapter 3
 
 - アサーションを適宜利用する
+
+# Chapter 4
+
+- Null object
