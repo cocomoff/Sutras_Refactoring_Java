@@ -10,7 +10,8 @@ public class Main {
 	    data[i] = random.nextInt(data.length);
 	}
 
-	SortSample sorter = new SortSample(data);
+	// SortSample sorter = new SortSample(data);
+	SortSampleAssert sorter = new SortSampleAssert(data);
 	System.out.println("Before: " + sorter);
 	sorter.sort();
 	System.out.println(" After: " + sorter);
