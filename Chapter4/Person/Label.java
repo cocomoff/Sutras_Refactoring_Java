@@ -4,6 +4,10 @@ public class Label {
 	_label = label;
     }
 
+    public boolean isNull() {
+	return false;
+    }
+
     public void display() {
 	System.out.println("display: " + _label);
     }
