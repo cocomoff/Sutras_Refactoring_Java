@@ -26,3 +26,9 @@
 - Null object
 
 # Chapter 5
+
+- メソッドの抽出
+
+# Chapter 6
+
+- クラスの抽出
